@@ -1,11 +1,16 @@
 {
+  "name": "e-commerce-store-master",
+  "version": "1.0.0",
+  "description": "**Free hosting use for deployement, so it might be happen response take much time and some time its down, So please run this project on local for checking.**",
+  "main": "index.js",
   "scripts": {
-    "start": "react-scripts start"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "react-router-dom": "^7.3.0",
-    "react-scripts": "^5.0.1"
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2"
   }
 }
